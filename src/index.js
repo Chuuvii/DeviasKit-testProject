@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import 'normalize.css';
 import './index.css';
+import './Header.js';
 import Header from './Header';
 import Aside from './Aside';
 import Tabs from './Tabs';

@@ -1,0 +1,105 @@
+.App-text {
+  position: absolute;
+  height: 24px;
+  left: 70px;
+  top: calc(50% - 24px);
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #FFFFFF
+}
+
+.App-logo { 
+  float: left;
+  position: relative;
+  top:0;
+  margin-top:14px;
+  margin-Left:24px;
+}
+ 
+.App-header {
+  background-color: #3F51B5;
+  height: 64px;
+  width: 100%;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  position: absolute;
+}
+
+.App-link-form {
+  position: absolute;
+  width: 844px;
+  height: 30px;
+  left: 191px;
+  top: 17px;
+ 
+  background: #333333;
+  opacity: 0.3;
+  border-radius: 4px;
+}
+
+.Bell { 
+  position: absolute;
+  left: 95.3%;
+  top: 22px;
+  width: 16px;
+  height: 19.51px;
+  fill: #3F51B5;
+}
+.Exit {
+  position: absolute;
+  left: 97.4%;
+  top: 22px;
+  width: 18.96px;
+  height: 18.96px;
+}
+
+.Link-text {
+  position: absolute;
+  width: 769px;
+  height: 16px;
+  left: 248px;
+  top: 24px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  white-space: nowrap;
+
+  text-decoration:none;
+
+  color: #CDD1EA;
+}
+
+ .Button {
+  position: absolute;
+  top: 23px;
+  left: 197px;
+  border-radius: 5px;
+  height: 19px;
+  width: 37px;
+
+  border-color: #26A69A;
+  background: #26A69A;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  text-align: center;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url(./fonts/Roboto-Medium.ttf);
+  font-style: normal;
+  font-weight: normal;
+}

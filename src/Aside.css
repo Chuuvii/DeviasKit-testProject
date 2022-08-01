@@ -1,0 +1,123 @@
+.Navigation {
+    position: absolute;
+    top: 64px;
+    width: 270px;
+    height: 94%;
+    background: #FFFFFF;
+    border: 1px solid rgba(63, 63, 68, 0.005);
+    box-shadow: 0px 1px 0px rgba(63, 63, 68, 0.05), 0px 1px 3px rgba(63, 63, 68, 0.15);
+  }
+  
+  .avatar {
+    position: Relative;
+    width: 100px;
+    height: 100px;
+    left: 31.11%;
+    right: 31.85%;
+    top: 2.36%;
+    bottom: 87.8%;
+  }
+  
+  .First-Line {
+    position: absolute;
+    left: 5.93%;
+    right: 5.93%;
+    top: 19.98%;
+    bottom: 79.92%;
+  }
+  
+  .Second-Line{
+    position: absolute;
+    left: 5.93%;
+    right: 5.93%;
+    top: 55.12%;
+    bottom: 44.78%;
+  }
+  
+  .Nav-text {
+    position: relative;
+    width: 238px;
+    height: 20px;
+    left: 48px;
+    top: calc(50% - 20px/2);
+  
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 34px;
+  
+    letter-spacing: -0.05px;
+  
+    color: #66788A;
+    text-decoration: none;
+    line-height: 5;
+    padding-left: 20px;
+    list-style-type: none;
+  }
+  
+  .UserName {
+    position: relative;
+    height: 20px;
+    left: 0%;
+    right: -0.89%;
+    top: calc(50% - 20px/2 - 10px);
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+  
+    text-align: center;
+    letter-spacing: -0.05px;
+  
+    color: #3A3B3F;
+  }
+  .Post{  /* должность */
+    position: relative;
+    height: 16px;
+    left: 16.96%;
+    right: 17.86%;
+    top: calc(50% - 16px/2 + 12px);
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+  
+    text-align: center;
+  
+    color: #9EA0A5;
+  }
+  
+  .Support {
+    position: relative;
+    left: 5.93%;
+    right: 5.93%;
+    top: 59.84%;
+    bottom: 35.63%;
+    list-style-type: none;
+  }
+  .aside-support{
+    position: absolute;
+  left: 11.48%;
+  right: 71.11%;
+  top: 57.58%;
+  bottom: 40.94%;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 15px;
+  
+  color: rgba(0, 0, 0, 0.328974);
+  }
+  
+  .Tabs{
+    position:relative;
+    left:250px;
+    top:70px;
+    list-style-type: none;
+    display: inline-block;
+  }
